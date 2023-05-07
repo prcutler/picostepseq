@@ -25,10 +25,17 @@ For both USB + Serial MIDI, add:
     1 - resistor 220 ohm (R3)
     1 - resistor 4.7k ohm (R4)
 
+For mounting in the 3D printed enclosure:
+
+    2 -  20 pin header sockets
+    2 - 20 pin header pins
+
 ## Assembly
 
 To assemble the PicoStepSeq:
 
-1. Start by soldering the Pico headers to the PCB.  You may need a vise or shim to help raise the PCB to keep it stable while soldering.
-2. Solder the header for the display to the PCB.
-3. 
+1. Using your flush cutter, cut 4 pins out of the header socket.
+2. Trim the header sockets and header pins to match the Pico.
+3. Start by soldering the Pico headers to the PCB.  You may need a vise or shim to help raise the PCB to keep it stable while soldering.
+4. Solder the header for the display to the PCB.
+5.
