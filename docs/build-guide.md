@@ -1,4 +1,4 @@
-# #PicoStepSeq Build Guide
+# PicoStepSeq Build Guide
 
 To assemble the PicoStepSeq, in addition to the bill of materials, you will need a soldering iron, solder, and solder flux.
 
